@@ -20,7 +20,7 @@ We constantly research in artificial intelligence through our participation in r
 
 
 
-- 🔭 We are currently working on [Whitebox](https://github.com/rishavanand/github-profilinator).
+- 🔭 We are currently working on [Whitebox](https://github.com/squaredev-io/whitebox).
   
 
 - 🌱 Currently doing research on [Explainable AI](https://github.com/squaredev-io/explainable-ai) and [Computer Vision](https://github.com/squaredev-io/computer-vision). Check out our repos!
